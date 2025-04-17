@@ -15,6 +15,13 @@ const portfolioItems = [
   },
   {
     id: 1,
+    title: "The Voraz LLC",
+    image:"images/voraz.webp",
+    description:"A modern and innovative platform showcasing cutting-edge solutions in technology and development. Built with React, Node.js, Express, and styled using Tailwind CSS, the website reflects a clean, user-friendly design paired with responsive functionality. This project demonstrates my expertise in full-stack development, creating scalable and impactful web experiences." ,
+    url: "https://thevoraz.com/", 
+  },
+  {
+    id: 2,
     title: "Real Estate Agency",
     image: "images/realestate.jpg",
     description:
@@ -22,7 +29,7 @@ const portfolioItems = [
     url: "https://github.com/kaushikjaiswal05/Real-Estate",
   },
   {
-    id: 2,
+    id: 3,
     title: "x-app clone",
     image: "images/xapp.jpg",
     description:
@@ -30,7 +37,7 @@ const portfolioItems = [
     url: "https://github.com/kaushikjaiswal05/x-clone",
   },
   {
-    id: 3,
+    id: 4,
     title: "TinDog App",
     image: "images/dog.jpg",
     description:
@@ -38,7 +45,7 @@ const portfolioItems = [
     url: "https://kaushikjaiswal05.github.io/TinDog-Project-Website/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Into the Wild",
     image: "images/wildlife.jpeg",
     description:
@@ -46,7 +53,7 @@ const portfolioItems = [
     url: "https://www.behance.net/kaushikjaiswal",
   },
   {
-    id: 5,
+    id: 6,
     title: "Keeper App",
     image: "images/keeperApp.jpg",
     description:
@@ -54,7 +61,7 @@ const portfolioItems = [
     url: "https://github.com/kaushikjaiswal05/KeeperApp",
   },
   {
-    id: 6,
+    id: 7,
     title: "logistics",
     image: "images/logistics.jpg",
     description:
@@ -62,7 +69,7 @@ const portfolioItems = [
     url: "https://kaushikjaiswal05.github.io/Logistics/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Refer and Earn",
     image: "images/refer.png",
     description:
@@ -70,7 +77,7 @@ const portfolioItems = [
     url: "https://github.com/kaushikjaiswal05/Refer-and-Earn",
   },
   {
-    id: 8,
+    id: 9,
     title: "Green Garden Vermicompost",
     image: "images/greengarden.jpg",
     description:
